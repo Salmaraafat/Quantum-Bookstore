@@ -1,0 +1,8 @@
+"C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.3\lib\idea_rt.jar=61904" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\salma\IdeaProjects\Quantum Bookstore 1\out\production\Quantum Bookstore 1" Bookstoretest
+Quantum Bookstore: Shipping to " Benha, Egypt
+Quantum Bookstore: Amount paid: 1600
+Quantum Bookstore: Shipping Ebook withEtoGiza, Egypt
+Quantum Bookstore: Amount paid: 900
+Quantum Bookstore: This device is for display only.
+
+Process finished with exit code 0
